@@ -2,9 +2,9 @@
 title: Welcome to my blog
 ---
 
-### HEWO AGAIN, WORLD!
+# HEWO AGAIN, WORLD!
 
-# To Dos
+## To Dos
 
 - [ ] Have a nice day
 - [ ] Help others have a nice day
